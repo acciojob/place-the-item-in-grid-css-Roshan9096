@@ -10,3 +10,10 @@
     height: 100vh; 
 	
 }
+.item {
+  background-color: lightblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+}
