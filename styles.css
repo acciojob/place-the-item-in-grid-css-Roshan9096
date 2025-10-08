@@ -4,10 +4,7 @@
 	display:grid;
 	grid-template-columns:repeat(2, 200px);
 	grid-template-rows:repeat(2, 200px);
-	gap: 10px;                             /* Optional: space between grid items */
-    justify-content: center;               /* Optional: center grid horizontally */
-    align-content: center;                 /* Optional: center grid vertically */
-    height: 100vh; 
+	
 	
 }
 .item {
